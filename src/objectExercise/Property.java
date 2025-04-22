@@ -6,6 +6,8 @@ public class Property {
     private String type;
     private int price;
     
+    
+    //全てのフィールドに対して、ゲッターとセッターを実装してください。
     //ゲッター
     public String getName() {
     	return name;

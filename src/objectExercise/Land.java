@@ -2,6 +2,7 @@
 package objectExercise;
 
 public class Land extends Property{
+	
 	private double area;
 	
 	public double getArea() {
